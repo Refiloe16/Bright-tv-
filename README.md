@@ -1,5 +1,5 @@
 
-# BrightTV Viewership Analytics 📺
+# BrightTV Viewership Analytics 
 
 ## Problem Statement
 
