@@ -51,10 +51,11 @@
 
   * Exported results to Excel
   * Built **pivot tables and charts** for storytelling
+  * Dashboard link : 
 
 * **Insight Generation**
 
-  * Identified:
+  * Identified:https://refioem.lovable.app/
 
     * Peak viewing periods (Afternoon & Evening)
     * Low engagement days (Mondays)
