@@ -78,6 +78,7 @@
 * **Microsoft Excel** – Data visualization (pivot tables & charts)
 * **SQL** – Data querying and aggregation
 * **Miro** – Process mapping and workflow visualization
+* **Data studio**-https://datastudio.google.com/reporting/28915257-66cd-46f7-8e4e-c4adc46a7187
 * **Powerpoint** - Project Presentation
 
 ---
